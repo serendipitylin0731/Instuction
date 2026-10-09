@@ -42,3 +42,5 @@ sudo apt install build-essential cmake g++ gdb
 ```
 ~~对于MacOS的用户
 **Best Answer:使用虚拟机运行Ubuntu**~~
+
+> Edit: _serendipity
