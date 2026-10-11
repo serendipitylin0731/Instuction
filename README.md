@@ -9,6 +9,7 @@
 ## 文档编写
 
 - [Markdown 文本文档入门讲义](doctype/markdown文本文档入门讲义.md)：学习标题、列表、链接、图片、代码块和表格等常用写法
+- [LaTeX 文档排版入门讲义](doctype/latex文档排版入门讲义.md)：学习论文、公式、图片、表格与交叉引用的基本写法
 - [正则表达式入门讲义](doctype/regex正则表达式入门讲义.md)：学习用规则匹配、查找和处理字符串
 - [Mermaid 流程图入门讲义](doctype/meimaid流程图入门讲义.md)：学习在 Markdown 中绘制简单流程图
 
