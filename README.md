@@ -29,4 +29,6 @@
 
 ---
 
+**欢迎访问[我的主页](https://serendipitylin0731.github.io/)**
+
 > Edit: _serendipity
